@@ -3,7 +3,7 @@
 # 🚀 FastAPI REST API
 
 A simple **REST API** built with [FastAPI](https://fastapi.tiangolo.com/) that supports full **CRUD operations** for managing a list of items.  
-This project is lightweight and perfect for your **portfolio**, learning FastAPI, or as a starting point for larger APIs.
+The Items get stored into a JSON.
 
 ---
 
@@ -29,6 +29,7 @@ FASTAPI-REST-API/
 ├── requirements.txt  # Dependencies
 ├── LICENSE           # Apache 2.0 license
 └── README.md         # Documentation
+└── screenshots       # Screenshots of README images
 ```
 
 ---
@@ -38,7 +39,7 @@ FASTAPI-REST-API/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/FASTAPI-REST-API.git
+git clone https://github.com/slyskenk/FASTAPI-REST-API.git
 cd FASTAPI-REST-API
 ```
 
