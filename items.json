@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Orange",
+        "description": "Juicy orange",
+        "price": 0.4
+    },
+    {
+        "name": "Mango",
+        "description": "Sweet tropical mango",
+        "price": 1.2
+    },
+    {
+        "name": "Strawberry",
+        "description": "Fresh strawberries pack",
+        "price": 2.5
+    },
+    {
+        "name": "Apple",
+        "description": "Fresh red apple",
+        "price": 0.5
+    }
+]
