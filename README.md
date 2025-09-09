@@ -7,9 +7,7 @@ The Items get stored into a JSON.
 
 ---
 
-## 🖼️ Screenshots
 
-> Add screenshots of your Swagger UI, ReDoc, or terminal output here for visual appeal.
 
 ```
 📌 Example:
